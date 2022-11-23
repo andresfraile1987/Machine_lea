@@ -10,15 +10,15 @@ def trm(valor):
         return trms[valor]
 
 
-def valor(ammount, valor):
-    return valor * ammount
+def valor(monto, valor):
+    return valor * monto
 
 def calculo(divisa):
     divisa.title() in divisas
     val = trm(divisa)
-    ammount = float(input(f'\n Ingresa la cantidad de {divisa.title()} que quieres comprar: ',))
-    result = valor(ammount, val)
-    print('\n ${} COP son {}{} {} \n'.format(ammount,divisas[divisa],round(result,2),divisa.title()))
+    monto = float(input(f'\n Ingresa la cantidad de {divisa.title()} que quieres comprar: ',))
+    result = valor(monto, val)
+    print('\n ${} COP son {}{} {} \n'.format(monto,divisas[divisa],round(result,2),divisa.title()))
 
 def salida():
     print('Hasta Pronto')
