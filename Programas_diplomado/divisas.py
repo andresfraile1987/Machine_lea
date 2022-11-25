@@ -18,10 +18,10 @@ def calculo(divisa):
     val = trm(divisa)
     monto = float(input(f'\n Ingresa la cantidad de {divisa.title()} que quieres comprar: ',))
     result = valor(monto, val)
-    print('\n ${} COP son {}{} {} \n'.format(monto,divisas[divisa],round(result,2),divisa.title()))
+    print('\n ${} COP son {} {} {} \n'.format(monto,divisas[divisa],round(result,2),divisa.title()))
 
 def salida():
-    print('Hasta Pronto')
+    print('\n Hasta Pronto \n')
 
 def error():
     print("La divisa no está en nuestra base de datos. intente de nuevo")
