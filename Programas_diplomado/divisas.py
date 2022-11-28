@@ -1,3 +1,19 @@
+"""
+Actividad 2
+Cámbio de divisas
+
+Estudiantes: 
+
+Andrés Ricardo Fraile Blanco
+
+Corporación Unificada Nacional De Educación Superior (CUN)
+Ficha: 60101, 
+Diplamado Machine learning en Python
+Docente: Ing. Luis Enrique Camargo Camargo
+Noviembre 26 del 2022
+
+"""
+
 trms = {'Euro':5151.98, 'Dollar':4989.12, 'Yen':34.75, 'Rublo':80.88, 'Mxn':252.43}
 divisas = {'Euro':'€', 'Dollar':'US$', 'Yen':'¥', 'Rublo':'₽', 'Mxn':'MX$'}
 
