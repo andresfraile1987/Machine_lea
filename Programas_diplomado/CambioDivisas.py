@@ -1,19 +1,3 @@
-"""
-Actividad 2
-Cambio de divisas
-
-Estudiantes: 
-Alberson Johan Sánchez Garavito
-Andrés Ricardo Fraile Blanco
-Mar Zein Biscunda Quintana
-
-Corporación Unificada Nacional De Educación Superior (CUN)
-Ficha: 60101, 
-Diplamado Machine learning en Python
-Docente: Ing. Luis Enrique Camargo Camargo
-Noviembre 26 del 2022
-
-"""
 
 # Tipos de transacciones posible
 tipos = ['Compra','Venta']
