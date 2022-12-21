@@ -1,18 +1,3 @@
-"""
-Actividad 3
-ETL en Python
-
-Estudiantes: 
-Alberson Johan Sánchez Garavito
-Andrés Ricardo Fraile Blanco
-
-Corporación Unificada Nacional De Educación Superior (CUN)
-Ficha: 60101, 
-Diplamado Machine learning en Python
-Docente: Ing. Luis Enrique Camargo Camargo
-Diciembre 02 del 2022
-
-"""
 
 # Importacion de la librerias de Pandas y Requests
 import pandas as pd
